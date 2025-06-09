@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Gen Ai**
 
-- 👨‍💻 All of my projects are available at [https://faisal-imtiaz-zeta.vercel.app/](https://faisal-imtiaz-zeta.vercel.app/)
-
 - 📫 How to reach me **imtiazfaisal2005@gmail.com**
+
+- 📄 Know about my experiences [https://faisal-imtiaz-zeta.vercel.app/](https://faisal-imtiaz-zeta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finefigo&show_icons=true&locale=en" alt="finefigo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finefigo&" alt="finefigo" /></p>
-
