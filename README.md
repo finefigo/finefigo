@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning **Gen Ai**
 
 - 📫 How to reach me **imtiazfaisal2005@gmail.com**
+  
+- 📄 Portfolio [https://faisal-imtiaz-zeta.vercel.app/](https://faisal-imtiaz-zeta.vercel.app/)
 
-- 📄 Know about my experiences [https://faisal-imtiaz-zeta.vercel.app/](https://faisal-imtiaz-zeta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
